@@ -1,0 +1,3 @@
+class ismail {
+     Nom:string
+}
