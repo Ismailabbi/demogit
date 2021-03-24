@@ -4,6 +4,6 @@ class ismail {
      Age:number
      Lala:string
  
-     Latiola24:string
+     Khadija:string
  
 }
