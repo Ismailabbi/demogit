@@ -3,5 +3,5 @@ class ismail {
      Prenom:string
      Age:number
      Lala:string
-     Lala2:string
+     Lalta2:string
 }
