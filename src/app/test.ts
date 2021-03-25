@@ -4,4 +4,5 @@ class ismail {
      Age:number
      Lala:string
      kawtar:string
+     Listo:string
 }
