@@ -5,4 +5,5 @@ class ismail {
      Lala:string
      kawtar:string
      Listo:string
+     nodo:string
 }
